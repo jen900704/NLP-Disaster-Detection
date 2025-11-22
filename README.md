@@ -1,4 +1,4 @@
-# Disaster Tweet Classification
+# TF-IDF-logistic-regression-disaster-tweet-classification
 
 This repository contains a small natural language processing project based on the Kaggle competition Natural Language Processing with Disaster Tweets. The goal is to classify tweets as disaster related or non disaster related.
 
